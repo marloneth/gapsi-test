@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 200
+    },
+    "model": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 10
+    }
+  },
+  "additionalProperties": false
+}
