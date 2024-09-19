@@ -51,6 +51,13 @@ npm run start
 npm run start:prod
 ```
 
+## SQL
+
+In the folder `sql` located on the root folder we can find a couple of SQL scripts:
+
+- `creation.sql`: Use it if you want to create the needed table on your database.
+- `populate.sql`: Use it to populate the table mentioned above with some data.
+
 ## Evidences
 
 ![get article by id success](evidences/image-2.png)
